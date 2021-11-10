@@ -1,0 +1,37 @@
+.inputForm {
+  text-align: center;
+  border: 1px solid black;
+  width: 20%;
+  margin: 10px auto;
+  padding: 20px;
+}
+
+.inputForm input {
+  width: 100%;
+  margin: 2px;
+
+}
+.inputForm label {
+  font-size: large;
+  font-weight: 500;
+}
+
+#submit {
+  width: 50%;
+  padding: 5px;
+  font-size: medium;
+  margin-top: 5px;
+}
+
+.card {
+  background-color: aliceblue;
+  width: 60%;
+  margin: 10px auto;
+  padding: 36px;
+  border-radius: 30px;
+}
+
+.receipt-heading {
+  font-size: x-large;
+  letter-spacing: 1px;
+}
